@@ -1,0 +1,186 @@
+#title
+{
+  text-align: center;
+}
+.nav-name{
+  color: lightgrey;
+  font-family: "Montserrat-Light";
+}
+.navsec{
+  padding: 10px 3%;
+}
+.namepic{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  padding-top:  50px;
+  padding-bottom: 100px;
+  color: #eeeeee;
+  margin-top: 50px;
+}
+.name{
+  margin-top: 80px;
+  font-size: 3.4rem;
+
+}
+p{
+  font-size: 1.5rem;
+}
+.nav-link {
+  margin: 0 10px;
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.profile{
+  border-radius: 30%;
+  height: 300px;
+  width: 300px;
+}
+/* about section */
+
+.about_div{
+  padding: 30px 180px;
+  text-align:center;
+  font-size: 1.6rem;
+  line-height: 1.8;
+  padding-bottom: 60px;
+  font-family: "Montserrat-Light";
+  color: #393e46;
+}
+.headings{
+  font-size: 2.7rem;
+  font-family: "sans-serif";
+  padding:  50px 0;
+  text-align: center;
+  color: #393e46;
+  font-weight: bold;
+}
+.lightheadings
+{
+  font-size: 2.7rem;
+  font-family: "sans-serif";
+  padding:  50px 0;
+  text-align: center;
+  color: #eeeeee;
+  font-weight: bold;
+}
+.skill-name{
+  background-color: #393e46;
+  color: #eeeeee;
+  text-align: center;
+  border-radius: 9%;
+  padding: 3px 0;
+  font-size: 1.0rem;
+}
+.int{
+  padding: 60px 0px;
+}
+h2{
+  font-family: "Montserrat-Bold";
+  margin-top: 10px;
+}
+.intbody{
+  font-size: 1.1rem;
+  color: #3b6978;
+}
+.actbody{
+
+    font-size: 0.9rem;
+    color: lightgrey;
+}
+.secskills{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 100px;
+}
+.inticon{
+  height: 90px;
+  width: 90px;
+}
+.acticon{
+  height: 105px;
+  width: 105px;
+  border-radius: 25%;
+}
+.intrests-box{
+  margin: 25px 0;
+}
+#skills{
+  padding: 0% 10%;
+  text-align: center;
+}
+
+
+.section-act{
+    color:  #eeeeee;
+    padding: 30px 180px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.head{
+text-align: center;
+font-weight: bold;
+font-size:  1.6rem;
+color: black;
+}
+
+.certificate{
+  height: 250px;
+  margin: 25px 0;
+  font-size:  1.0rem;
+  border-radius: 10%;
+  background: #e4f9ff;
+  text-align: center;
+  font-family: "Montserrat-Light";
+  color: grey;
+}
+.pro{
+  height: 360px;
+  margin: 45px 0;
+  font-size:  1.0rem;
+  border-radius: 10%;
+  background: #e4f9ff;
+  text-align: center;
+  font-family: "Montserrat-Light";
+  color: grey;
+}
+.des-pro{
+  font-size:  1.2rem;
+  line-height: 1.2;
+  color: darkgrey;
+  text-align:left;
+  color: #393e46;
+}
+.sec-proj{
+  padding: 6% 11%;
+  color: #eeeeee;
+  line-height: 2;
+  text-align: center;
+}
+.des-cert{
+  font-size:  1.2rem;
+  color: darkgrey;
+  color: #393e46;
+}
+.hrr{
+  margin: 1px 7px;
+}
+.foot{
+  text-align: center;
+  padding: 5px 90px;
+  padding-top:80px;
+
+}
+.iic{
+  margin: 0px 20px;
+
+}
+.cpr{
+  font-size: 1rem;
+
+  font-family: "Montserrat-Light";
+
+}
+.det{
+  padding-bottom: 30px;
+}
